@@ -34,7 +34,7 @@
           border-color:                #8fbcbb;
           cursor:                      "default";
           background-color:            #181825;
-          background-image:            url("/home/avalon/.config/rofi/images/battle.jpg");
+          background-image:            url("/home/river/.config/rofi/images/battle.jpg");
       }
 
       mainbox {

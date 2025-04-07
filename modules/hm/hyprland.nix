@@ -19,6 +19,7 @@
       exec-once = hyprlock
       exec-once = waybar
       exec-once = mako
+      exec-once = mullvad-vpn
 
       windowrule = suppressevent maximize, class:.
       windowrule = immediate, class:^(steam_app_322170)$

@@ -5,8 +5,8 @@
     enable = true;
 
     settings = {
-      preload = [ "/home/avalon/.config/hypr/wallpapers/bubble-fruit.png" ];
-      wallpaper = [ ",/home/avalon/.config/hypr/wallpapers/bubble-fruit.png" ];
+      preload = [ "/home/river/.config/hypr/wallpapers/bubble-fruit.png" ];
+      wallpaper = [ ",/home/river/.config/hypr/wallpapers/bubble-fruit.png" ];
     };
   };
 }

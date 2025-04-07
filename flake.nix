@@ -17,7 +17,7 @@
           {
             home-manager.useGlobalPkgs = true;
             home-manager.useUserPackages = true;
-            home-manager.users.avalon = {
+            home-manager.users.river = {
               imports = [
                 ./sofanthiel/home.nix
               ];

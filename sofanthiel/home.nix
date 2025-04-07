@@ -60,9 +60,9 @@
   };
 
   home = {
-    username = "avalon";
-    homeDirectory = "/home/avalon";
-    stateVersion = "24.05";
+    username = "river";
+    homeDirectory = "/home/river";
+    stateVersion = "24.11";
   };
 
   programs.home-manager.enable = true;

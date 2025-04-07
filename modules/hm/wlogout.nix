@@ -55,27 +55,19 @@
       }
 
       #lock {
-          background-image: image(url("/home/avalon/.config/wlogout/icons/lock.png"));
+          background-image: image(url("/home/river/.config/wlogout/icons/lock.png"));
       }
 
       #logout {
-          background-image: image(url("/home/avalon/.config/wlogout/icons/logout.png"));
-      }
-
-      #suspend {
-          background-image: image(url("/home/avalon/.config/wlogout/icons/suspend.png"));
-      }
-
-      #hibernate {
-          background-image: image(url("/home/avalon/.config/wlogout/icons/hibernate.png"));
+          background-image: image(url("/home/river/.config/wlogout/icons/logout.png"));
       }
 
       #shutdown {
-          background-image: image(url("/home/avalon/.config/wlogout/icons/shutdown.png"));
+          background-image: image(url("/home/river/.config/wlogout/icons/shutdown.png"));
       }
 
       #reboot {
-          background-image: image(url("/home/avalon/.config/wlogout/icons/reboot.png"));
+          background-image: image(url("/home/river/.config/wlogout/icons/reboot.png"));
       }
     '';
   };

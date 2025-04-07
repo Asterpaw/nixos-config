@@ -11,7 +11,7 @@
     };
   };
 
-  users.groups.libvirtd.members = [ "root" "avalon" ];
+  users.groups.libvirtd.members = [ "root" "river" ];
 
   programs.virt-manager.enable = true;
 

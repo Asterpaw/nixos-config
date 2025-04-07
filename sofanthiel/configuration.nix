@@ -74,9 +74,9 @@
   };
 
   users = {
-    users.avalon = {
+    users.river = {
       isNormalUser = true;
-      description = "avalon";
+      description = "river";
       extraGroups = [ "networkmanager" "wheel" "input" ];
     };
 
@@ -140,5 +140,5 @@
     size = 16*1024;
   } ];
 
-  system.stateVersion = "24.05";
+  system.stateVersion = "24.11";
 }

@@ -14,7 +14,7 @@
       $font_symbols = Symbols Nerd Font Mono
 
       background {
-          path = /home/avalon/.config/hypr/wallpapers/bubble-fruit.png
+          path = /home/river/.config/hypr/wallpapers/bubble-fruit.png
           blur_passes = 2
           contrast = 1
           brightness = 0.7
