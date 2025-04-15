@@ -92,6 +92,7 @@
     vim
     kitty
     htop
+    btop
     fastfetch
     waybar
     rofi-wayland
