@@ -32,7 +32,8 @@
       }
 
       cursor {
-        no_hardware_cursors = true
+        no_hardware_cursors = 0
+        no_break_fs_vrr = 0
       }
 
       render {
@@ -45,7 +46,7 @@
         disable_hyprland_logo = true
         disable_splash_rendering = true
         vfr = true
-        vrr = 1
+        vrr = 0
       }
 
       general {
