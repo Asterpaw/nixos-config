@@ -11,7 +11,7 @@
       enable = true;
       settings = {
         general = {
-          renice = 4;
+          renice = 10;
         };
       };
     };
