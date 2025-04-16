@@ -7,7 +7,7 @@
     portalPackage = null;
 
     extraConfig = ''
-      monitor=DP-1, 2560x1440@240, 0x0, 1, bitdepth, 10
+      monitor=DP-1, 2560x1440@240, 0x0, 1
 
       $terminal = kitty
       $fileManager = dolphin
